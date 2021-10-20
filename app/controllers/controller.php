@@ -20,6 +20,7 @@ class controller
         Nav();
         require_once 'app\views\modules\inicio.phtml';
         piedepagina();
+        
     }
 }
 ?>
